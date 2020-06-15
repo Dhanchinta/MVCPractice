@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuneFifteenMVC", "JuneFifteenMVC\JuneFifteenMVC.csproj", "{E5E4BFCF-5199-490A-985B-8CADBD6A7657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuneFifteenMVC.Tests", "JuneFifteenMVC.Tests\JuneFifteenMVC.Tests.csproj", "{A2C8AD05-C709-4D03-95F2-E206E705F071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5E4BFCF-5199-490A-985B-8CADBD6A7657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E4BFCF-5199-490A-985B-8CADBD6A7657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E4BFCF-5199-490A-985B-8CADBD6A7657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E4BFCF-5199-490A-985B-8CADBD6A7657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C8AD05-C709-4D03-95F2-E206E705F071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C8AD05-C709-4D03-95F2-E206E705F071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C8AD05-C709-4D03-95F2-E206E705F071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C8AD05-C709-4D03-95F2-E206E705F071}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFCCDFE4-33E1-4B18-95BE-E73B8FA7F18E}
+	EndGlobalSection
+EndGlobal
