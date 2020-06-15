@@ -10,7 +10,7 @@ namespace JuneFifteenMVC.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return Contact();
         }
 
         public ActionResult About()
